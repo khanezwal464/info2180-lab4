@@ -1,0 +1,38 @@
+/* page before search button is clicked */
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#FFFF;
+    font-family: Georgia, "Times New Roman", serif;  
+}
+
+/* The main container area*/
+.container{
+    width: 900px;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+
+/* Title of page*/
+h1{
+    font-size: 36px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+/* Styling for search button */
+button {
+    padding: 6px 14px;
+    border: 1px solid #AAA;
+    background-color: #EEE;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+button:hover{
+    background-color: #DDD;
+}
+
+
+
